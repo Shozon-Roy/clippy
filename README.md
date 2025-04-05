@@ -1,6 +1,6 @@
 # Clippy - Screen Recording and Sharing Platform
 
-![Clippy](#)
+![Clippy](https://raw.githubusercontent.com/Shozon-Roy/clippy/refs/heads/main/2b3cc1dc-a61d-4115-a2ec-705c98370e89.png)
 
 Clippy is a modern web application for recording, sharing, and collaborating on screen recordings. With a clean, intuitive interface and powerful features, Clippy makes it easy to create and share high-quality screen recordings with your team.
 
